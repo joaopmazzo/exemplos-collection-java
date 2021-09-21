@@ -6,8 +6,8 @@ public class Temperatura {
 
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
         List<Double> temperatura = new ArrayList<>();
+        Scanner scan = new Scanner(System.in);
 
         for(var count = 0; count < 6; count++) {
             System.out.print("Digite a tempereratura:: ");
