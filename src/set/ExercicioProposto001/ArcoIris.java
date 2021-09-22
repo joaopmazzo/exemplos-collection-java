@@ -51,7 +51,7 @@ public class ArcoIris {
         }
         System.out.println(coresArcoIris);
 
-        System.out.println("Limpando o conjunto");
+        System.out.println("Limpando o conjunto...");
         coresArcoIris.clear();
 
         System.out.println("Conferindo se o conjunto está vazio: " + coresArcoIris.isEmpty());
